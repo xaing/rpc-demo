@@ -1,0 +1,5 @@
+server:
+  port: 8002
+# zookeeper注册地址
+registry:
+  address: 10.3.99.13:2181

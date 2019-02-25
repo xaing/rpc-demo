@@ -1,0 +1,10 @@
+server:
+  port: 8001
+# zookkeeper注册地址
+registry:
+  address: 10.3.99.13:2181
+# RPC服务提供者地址
+rpc:
+  server:
+    host: 10.3.99.13
+    port: 18868
